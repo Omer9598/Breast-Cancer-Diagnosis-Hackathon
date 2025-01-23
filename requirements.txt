@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+tqdm
+pip:
+    -xgboost==1.0.1
